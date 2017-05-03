@@ -16,6 +16,8 @@ I'll just either make assets or find them somewhere online. I won't really need 
 
 Problem with this idea- it doesn't have an actual player/collisions.
 
+I can make collisions in the gui, but I could also do without.
+
 # Backup Idea
  A sidescroller
 - screen always scrolling leftward, forcing the player to go right to continue
