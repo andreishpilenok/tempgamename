@@ -14,6 +14,8 @@ I'm thinking the controls will just be the middle row of keys. ASDF HJKL for 8 f
 
 I'll just either make assets or find them somewhere online. I won't really need anything difficult.
 
+Problem with this idea- it doesn't have an actual player/collisions.
+
 # Backup Idea
  A sidescroller
 - screen always scrolling leftward, forcing the player to go right to continue
