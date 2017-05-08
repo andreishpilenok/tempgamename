@@ -5,6 +5,17 @@
 - will only be able to go up by solving puzzles
 - as the screen is always moving, the player has to do it within a certain timeframe
 
+I'm imagining gameplay would be as such-
+1. You start at the very bottom.
+2. You can continue upwards by using certain objects(ex. climbing up a ladder). Getting to these objects may require you to solve a puzzle.
+3. I suppose the score would be the distance you acheived. 
+4. The speed  of scrolling and puzzle difficulty increase as you get higher. 
+
+How this would be done technically-
+1. Set some sort of background image that slowly slides off of the bottom of the  screen. 
+2. Player should only be able to stand on specific objects(otherwise he would fall and lose progress). Can I make those objects part of the background or do I have them to be seperate? Can I make certain areas a sprite have collision and some not?
+3. If I can get some of that Mario game code that Zach showed us, I could use a lot of that.
+
 # Backup Idea
 
 Something like Guitar Hero, or more specifically like Piano Tiles(google it if you don't know)
