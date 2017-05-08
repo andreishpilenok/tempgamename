@@ -1,5 +1,12 @@
 
 # Main Idea
+ A vertical puzzle sidescroller(upscroller?)
+- player has to keep moving upward to continue in the game
+- will only be able to go up by solving puzzles
+- as the screen is always moving, the player has to do it within a certain timeframe
+
+# Backup Idea
+
 Something like Guitar Hero, or more specifically like Piano Tiles(google it if you don't know)
 - piano sounds probably will be easiest
 - measure the times between the notes, when the notes are, if the player presses a key within the right timeframe, the game continues
@@ -17,9 +24,3 @@ I'll just either make assets or find them somewhere online. I won't really need 
 Problem with this idea- it doesn't have an actual player/collisions.
 
 I can make collisions in the gui, but I could also do without.
-
-# Backup Idea
- A sidescroller
-- screen always scrolling leftward, forcing the player to go right to continue
-- new stuff keep appearing from the right, which the player has to perform certain actions to overcome
-- a high-score style type game
