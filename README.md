@@ -14,8 +14,7 @@ I'm imagining gameplay would be as such-
 How this would be done technically-
 1. Set some sort of background image that slowly slides off of the bottom of the  screen. 
 2. Player should only be able to stand on specific objects(otherwise he would fall and lose progress). Can I make those objects part of the background or do I have them to be seperate? Can I make certain areas a sprite have collision and some not?
-3. If I can get some of that Mario game code that Zach showed us, I could use a lot of that.
-
+3. Use some of the Mario code that Zach had. Just change it up to be want I want it to and add stuff.
 # Backup Idea
 
 Something like Guitar Hero, or more specifically like Piano Tiles(google it if you don't know)
