@@ -12,9 +12,10 @@ I'm imagining gameplay would be as such-
 4. The speed  of scrolling and puzzle difficulty increase as you get higher. 
 
 How this would be done technically-
-1. Set some sort of background image that slowly slides off of the bottom of the  screen. 
-2. Player should only be able to stand on specific objects(otherwise he would fall and lose progress). Can I make those objects part of the background or do I have them to be seperate? Can I make certain areas a sprite have collision and some not?
-3. Use some of the Mario code that Zach had. Just change it up to be want I want it to and add stuff.
+1. Read level from text file
+2. Set each character to be a certain object
+3. Allow each object to have a specific purpose.
+
 # Backup Idea
 
 Something like Guitar Hero, or more specifically like Piano Tiles(google it if you don't know)
